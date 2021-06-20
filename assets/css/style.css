@@ -1,0 +1,75 @@
+.plugin-side-options{
+    background-color:#fff;
+    min-height:600px;
+    margin-right:5px;
+    padding:10px;
+}
+.plugin-demo-content{
+    background-color:#fff;
+    min-height:600px;
+    margin:0px 10px ;
+    padding:10px 20px;
+}
+
+.plugin-side-options button{
+    width:100%;
+    padding:10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.plugin-result{
+    padding:10px 20px;
+    background-color: #ddd;
+    display: none;
+}
+
+.plugin-result-title{
+    margin-bottom: 15px;
+}
+
+.action-button{
+    background-color: rgb(12, 43, 43);
+    cursor: pointer;
+    color: rgb(139, 134, 134);
+    text-shadow: 4px 4px 3px rgb(0, 0, 0);
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 3px;
+}
+
+.action-button:hover {
+    background-color: rgb(17, 29, 31);
+    color: rgba(238, 238, 238, 0.705);
+    font-size: 18px;
+    transform:scale(1.1);
+    transition: all 0.5s;
+    border-radius: 40px;
+}
+.heading h1{
+    background-color: rgb(9, 43, 43);
+    color: rgba(95, 181, 207, 0.349);
+   text-align: center;
+  text-shadow: 4px 4px 3px rgb(0, 0, 0);
+   padding: 20px;
+   font-weight: bold;
+}
+
+.plugin-result-title{
+    color: rgb(3, 3, 3);
+    text-shadow: 2px 2px 7px rgb(49, 42, 42);
+    paddingrgb(14, 12, 12)px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight:900;
+}
+
+.st-output{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px rgb(72, 72, 87);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.842);
+    background-color: rgba(101, 102, 101, 0.651);
+}
